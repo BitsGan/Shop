@@ -1,0 +1,73 @@
+.outbox{
+    border: solid 1px;
+    height: 50px;
+    display: flex;
+    background-color: antiquewhite;
+}
+#in1,#in2,#in3,#in4{
+    border: solid 0px;
+    display: flex;
+}
+#in2{
+    width: 20%;
+}
+#in3{
+    color: black;
+    width: 10%;
+}
+#in4{
+    width: 30%;
+    color: blue;
+    font-size: 20px;
+}
+a{
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+
+}
+
+
+
+
+.hero {
+    background-image: url(https://www.icf.edu.in/blog/wp-content/uploads/2023/11/Fashion-Designing-Where-Artistry-Meets-the-Runway.png);
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+.hero h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+.hero p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+
+.sections{
+    border: solid px;
+    display: flex;
+}
+
+
+.section{
+    width: 33%;
+}
+form{
+    border: solid 1px;
+    width: 50%;
+    margin-left: 400px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    background-color: antiquewhite;
+    border-radius: 5%;
+}
